@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh; /* Use the full viewport height */
+}
+
+.input {
+  padding: 10px;
+  font-size: 26px;
+  border: 10px solid #ccc;
+  border-radius: 10px;
+}

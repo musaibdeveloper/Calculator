@@ -1,0 +1,10 @@
+.Heading {
+  text-align: center;
+}
+
+/* Calculator input field style */
+.buttonsConatiner {
+  display : flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
